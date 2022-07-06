@@ -1,0 +1,8 @@
+Starting audit...
+[ERROR] C:\Users\Dana\Desktop\oopVideosDB\teme\tema\.\src\actor\Actor.java:110:83: 'awards' hides a field. [HiddenField]
+[ERROR] C:\Users\Dana\Desktop\oopVideosDB\teme\tema\.\src\entertainment\Video.java:105:83: 'genres' hides a field. [HiddenField]
+[ERROR] C:\Users\Dana\Desktop\oopVideosDB\teme\tema\.\src\factory\CommandFactory.java:9:1: Utility classes should not have a public or default constructor. [HideUtilityClassConstructor]
+[ERROR] C:\Users\Dana\Desktop\oopVideosDB\teme\tema\.\src\factory\QueryFactory.java:9:1: Utility classes should not have a public or default constructor. [HideUtilityClassConstructor]
+[ERROR] C:\Users\Dana\Desktop\oopVideosDB\teme\tema\.\src\factory\RecommendationFactory.java:10:1: Utility classes should not have a public or default constructor. [HideUtilityClassConstructor]
+Audit done.
+Checkstyle ends with 5 errors.
